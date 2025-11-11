@@ -1,1 +1,1 @@
-wait
+Wait it! ⭐
