@@ -2,16 +2,17 @@
 
 
 [![GitHub stars](https://img.shields.io/github/stars/keggin-CHN/njfu-exam?style=flat-square)](https://github.com/keggin-CHN/njfu-exam/stargazers)
-[![GitHub forks](https.img.shields.io/github/forks/keggin-CHN/njfu-exam?style=flat-square)](https://github.com/keggin-CHN/njfu-exam/network)
+[![GitHub forks](https://img.shields.io/github/forks/keggin-CHN/njfu-exam?style=flat-square)](https://github.com/keggin-CHN/njfu-exam/network)
 
 这是一个为南京林业大学马院在线作业系统设计的油猴脚本，旨在帮助学生自动化处理平时作业，提高学习效率。
+
 ## ⚠️ 使用声明
 
 **仅用于学习与技术研究，禁止用于任何商业用途。**
 
 ## 🎥 视频演示
 
-https://github.com/keggin-CHN/njfu-exam/assets/89973441/6217beac-f1aa-a7a1-f20a-f324bc2d623e
+<video src="https://github.com/keggin-CHN/njfu-exam/raw/main/6217beacf1aaa7a1f20af324bc2d623e.mp4" controls="controls" style="max-width: 720px;"></video>
 
 ## ✨ 主要功能
 
@@ -28,7 +29,7 @@ https://github.com/keggin-CHN/njfu-exam/assets/89973441/6217beac-f1aa-a7a1-f20a-
 
 | 核心功能展示 | 自动填充答案 |
 | :---: | :---: |
-| ![题库管理面板](https://github.com/keggin-CHN/njfu-exam/blob/main/exam/QQ20251114-213950.jpg?raw=true) | ![自动填充答案](https://github.com/keggin-CHN/njfu-exam/blob/main/exam/QQ20251114-214004.jpg?raw=true) |
+| ![题库管理面板](https://github.com/keggin-CHN/njfu-exam/blob/main/QQ20251114-213950.jpg?raw=true) | ![自动填充答案](https://github.com/keggin-CHN/njfu-exam/blob/main/QQ20251114-214004.jpg?raw=true) |
 
 ## 🚀 安装与使用
 
@@ -37,7 +38,7 @@ https://github.com/keggin-CHN/njfu-exam/assets/89973441/6217beac-f1aa-a7a1-f20a-
 
 2.  **安装本脚本**:
     -   **方式一 (推荐)**: 点击 [Greasy Fork](https://greasyfork.org/zh-CN/scripts/490801-%E5%8D%97%E6%9E%97%E9%A9%AC%E9%99%A2%E5%B9%B3%E6%97%B6%E4%BD%9C%E4%B8%9A%E8%87%AA%E5%8A%A8%E7%AD%94%E9%A2%98%E5%8A%A9%E6%89%8B) 进行安装。
-    -   **方式二 (从 GitHub 安装)**: 点击 [这里](https://github.com/keggin-CHN/njfu-exam/raw/main/exam/exam.js) 直接安装。
+    -   **方式二 (从 GitHub 安装)**: 点击 [这里](https://github.com/keggin-CHN/njfu-exam/raw/main/exam.js) 直接安装。
 
 3.  **使用流程**:
     -   **首次使用**:
