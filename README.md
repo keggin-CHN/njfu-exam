@@ -12,7 +12,11 @@
 
 ## 🎥 视频演示
 
-[![视频演示](https://github.com/keggin-CHN/njfu-exam/blob/main/QQ20251114-213950.jpg?raw=true)](https://github.com/keggin-CHN/njfu-exam/blob/main/6217beacf1aaa7a1f20af324bc2d623e.mp4)
+
+
+https://github.com/user-attachments/assets/2de8c789-3c16-45b0-932a-6df58678a354
+
+
 
 ## ✨ 主要功能
 
@@ -37,8 +41,7 @@
     -   如果你的浏览器没有安装油猴插件，请先从对应的浏览器商店安装：[点击安装](https://www.tampermonkey.net/)
 
 2.  **安装本脚本**:
-    -   **方式一 (推荐)**: 点击 [Greasy Fork](https://greasyfork.org/zh-CN/scripts/490801-%E5%8D%97%E6%9E%97%E9%A9%AC%E9%99%A2%E5%B9%B3%E6%97%B6%E4%BD%9C%E4%B8%9A%E8%87%AA%E5%8A%A8%E7%AD%94%E9%A2%98%E5%8A%A9%E6%89%8B) 进行安装。
-    -   **方式二 (从 GitHub 安装)**: 点击 [这里](https://github.com/keggin-CHN/njfu-exam/raw/main/exam.js) 直接安装。
+    -   点击 [这里](https://github.com/keggin-CHN/njfu-exam/raw/main/exam.js) 直接安装。
 
 3.  **使用流程**:
     -   **首次使用**:
