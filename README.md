@@ -12,7 +12,7 @@
 
 ## 🎥 视频演示
 
-<video src="https://github.com/keggin-CHN/njfu-exam/raw/main/6217beacf1aaa7a1f20af324bc2d623e.mp4" controls="controls" style="max-width: 720px;"></video>
+[![视频演示](https://github.com/keggin-CHN/njfu-exam/blob/main/QQ20251114-213950.jpg?raw=true)](https://github.com/keggin-CHN/njfu-exam/blob/main/6217beacf1aaa7a1f20af324bc2d623e.mp4)
 
 ## ✨ 主要功能
 
